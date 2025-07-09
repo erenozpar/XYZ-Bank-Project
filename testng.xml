@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="XYZ Bank Automation Suite" parallel = "tests" thread-count="2" verbose="1">
+
+    <listeners>
+        <listener class-name="com.globalsqa.bank.utils.ExtentListeners"></listener>
+    </listeners>
+
+    <test name="Manager Features Tests - Chrome">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="com.globalsqa.bank.tests.ManagerTests"/>
+        </classes>
+    </test>
+
+    <test name="Customer Features Tests - Chrome">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="com.globalsqa.bank.tests.CustomerLoginTests"/>
+        </classes>
+    </test>
+    <test name="Manager Features Tests - Firefox">
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="com.globalsqa.bank.tests.ManagerTests"/>
+        </classes>
+    </test>
+
+    <test name="Customer Features Tests - Firefox">
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="com.globalsqa.bank.tests.CustomerLoginTests"/>
+        </classes>
+    </test>
+
+</suite>
