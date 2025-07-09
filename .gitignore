@@ -36,11 +36,3 @@ build/
 
 ### Mac OS ###
 .DS_Store
-
-
-/target/
-*.iml
-.idea/
-.DS_Store
-/logs/
-/test-output/
