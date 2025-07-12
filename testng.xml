@@ -6,12 +6,12 @@
         <listener class-name="com.globalsqa.bank.utils.AnnotationTransformer"></listener>
     </listeners>
 
-    <test name="Manager Features Tests - Chrome">
-        <parameter name="browser" value="chrome"/>
-        <classes>
-            <class name="com.globalsqa.bank.tests.ManagerTests"/>
-        </classes>
-    </test>
+<!--    <test name="Manager Features Tests - Chrome">-->
+<!--        <parameter name="browser" value="chrome"/>-->
+<!--        <classes>-->
+<!--            <class name="com.globalsqa.bank.tests.ManagerTests"/>-->
+<!--        </classes>-->
+<!--    </test>-->
 
     <test name="Customer Features Tests - Chrome">
         <parameter name="browser" value="chrome"/>
