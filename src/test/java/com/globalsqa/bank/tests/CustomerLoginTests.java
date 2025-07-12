@@ -19,7 +19,7 @@ public class CustomerLoginTests extends BaseCustomerTest {
      * Test Scenario: Verify successful customer login.
      * Login is handled by BaseCustomerTest.setup().
      */
-    @Test(retryAnalyzer = RetryAnalyzer.class)
+    @Test(priority = 1)
     public void testCustomerLogin() {
         // Customer is already logged in via BaseCustomerTest.setup()
         // And customerAccountPage is initialized.
