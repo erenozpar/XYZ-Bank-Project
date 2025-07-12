@@ -3,7 +3,7 @@
 <suite name="XYZ Bank Automation Suite" parallel = "tests" thread-count="2" verbose="1">
 
     <listeners>
-        <listener class-name="com.globalsqa.bank.utils.ExtentListeners"></listener>
+        <listener class-name="com.globalsqa.bank.utils.AnnotationTransformer"></listener>
     </listeners>
 
     <test name="Manager Features Tests - Chrome">

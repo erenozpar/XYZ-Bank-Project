@@ -7,8 +7,6 @@ import org.testng.annotations.Test;
 import java.util.List;
 import java.util.Map;
 
-import static org.testng.Assert.*;
-
 public class CustomerLoginTests extends BaseCustomerTest {
     // No need for BASE_URL here, it's in BaseCustomerTest
     // private final String BASE_URL = "https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login";
