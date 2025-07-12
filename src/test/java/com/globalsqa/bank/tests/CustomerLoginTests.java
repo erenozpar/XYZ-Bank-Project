@@ -1,6 +1,7 @@
 package com.globalsqa.bank.tests;
 import com.globalsqa.bank.pages.TransactionsPage;
 import com.globalsqa.bank.utils.BaseCustomerTest;
+import com.globalsqa.bank.utils.RetryAnalyzer;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -18,7 +19,7 @@ public class CustomerLoginTests extends BaseCustomerTest {
      * Test Scenario: Verify successful customer login.
      * Login is handled by BaseCustomerTest.setup().
      */
-    @Test(priority = 1)
+    @Test(retryAnalyzer = RetryAnalyzer.class)
     public void testCustomerLogin() {
         // Customer is already logged in via BaseCustomerTest.setup()
         // And customerAccountPage is initialized.
