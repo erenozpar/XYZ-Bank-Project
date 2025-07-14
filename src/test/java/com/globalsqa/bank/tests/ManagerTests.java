@@ -22,10 +22,11 @@ public class ManagerTests extends BaseTest {
     public void setup(@Optional("chrome") String browser) {
         super.setup(browser);
         // Initialize Page Objects for Manager tests
-//        loginPage = new LoginPage(driver, wait); // Use 'driver' and 'wait' from BaseTest's ThreadLocal
-//        managerPage = new ManagerPage(driver, wait);
+loginPage = new LoginPage(driver, wait); // Use 'driver' and 'wait' from BaseTest's ThreadLocal
+        loginPage.loginAsManager(BASE_URL);
+        managerPage = new ManagerPage(driver, wait);
 //
-//        loginPage.loginAsManager(BASE_URL);
+
         // No need to call loginAsManager here in setup if each test starts from login.
         // Or if you want to login manager once for all manager tests, do it here:
         // loginPage.loginAsManager(BASE_URL);
@@ -73,7 +74,7 @@ public class ManagerTests extends BaseTest {
         String currentTestFirstName = faker.name().firstName();
         String currentTestLastName = faker.name().lastName();
         String currentTestPostCode = faker.address().zipCode();
-        String currentTestFullName = currentTestFirstName + " " + currentTestLastName;
+        String currentTestFullName = currentTestFirstName + " "+ currentTestLastName;
 
         managerPage.fillAddCustomerForm(currentTestFirstName, currentTestLastName, currentTestPostCode);
         managerPage.clickAddCustomerSubmitButton();
@@ -135,7 +136,7 @@ public class ManagerTests extends BaseTest {
      */
 
     @Test(priority = 5)
-    public void testDeleteCustomer() throws InterruptedException {
+    public void testDeleteCustomer()  {
         // managerPage object is already initialized and logged in via BaseTest.setup()
 
         // --- ADD CUSTOMER FOR THIS TEST ---
@@ -151,7 +152,7 @@ public class ManagerTests extends BaseTest {
         managerPage.getAlertTextAndAccept(); // Accept the "Customer added successfully" alert
 
         // --- GO TO CUSTOMERS LIST, DELETE AND VERIFY DISAPPEARANCE ---
-        managerPage.clickCustomersTab();;
+        managerPage.clickCustomersTab();
 
         managerPage.searchCustomer(customerToDeleteFirstName);
 
@@ -199,7 +200,7 @@ public class ManagerTests extends BaseTest {
 
         String validationMessage = managerPage.getFieldValidationMessage(managerPage.lastNameInput);
 
-        System.out.println("Validation message for Last Name: " + validationMessage);
+        System.out.println("Validation message for Last Name:" + validationMessage);
 
         Assert.assertNotNull(validationMessage, "Validation message should be displayed for missing Last Name.");
         Assert.assertTrue(validationMessage.contains("fill out this field") || validationMessage.contains("doldurun"),

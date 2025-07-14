@@ -415,3 +415,271 @@
 2025-07-13 21:12:01.803 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Finished test: testCustomerDeposit
 2025-07-13 21:12:01.806 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Closing browser...
 2025-07-13 21:12:01.968 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Test teardown complete.
+2025-07-13 21:18:46.012 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Closing browser...
+2025-07-13 21:18:46.164 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Test teardown complete.
+2025-07-13 21:18:48.695 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Starting test: testCustomerDeposit for customer Kia Littel
+2025-07-13 21:18:48.905 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered deposit amount: 100
+2025-07-13 21:18:48.958 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Deposit submit button.
+2025-07-13 21:18:48.981 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Deposit status message received: Deposit Successful
+2025-07-13 21:18:48.981 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Deposit successful for customer Kia Littel
+2025-07-13 21:18:48.998 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Current balance after deposit: 100
+2025-07-13 21:18:48.998 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Finished test: testCustomerDeposit
+2025-07-13 21:18:48.999 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Closing browser...
+2025-07-13 21:18:49.134 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Test teardown complete.
+2025-07-13 21:18:51.576 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Starting test: testCustomerDeposit for customer Kindra Kuvalis
+2025-07-13 21:18:51.774 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered deposit amount: 200
+2025-07-13 21:18:51.834 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Deposit submit button.
+2025-07-13 21:18:51.860 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Deposit status message received: Deposit Successful
+2025-07-13 21:18:52.098 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered withdrawl amount: 50
+2025-07-13 21:18:52.167 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Withdrawl submit button.
+2025-07-13 21:18:52.188 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Withdrawl status message received: Transaction successful
+2025-07-13 21:18:52.207 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Current balance after deposit: 150
+2025-07-13 21:18:52.207 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Finished test: testCustomerDeposit
+2025-07-13 21:18:52.207 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Closing browser...
+2025-07-13 21:18:52.355 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Test teardown complete.
+2025-07-13 21:18:54.735 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Starting test: testCustomerDeposit for customer Jack Harber
+2025-07-13 21:18:54.896 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered deposit amount: 150
+2025-07-13 21:18:54.962 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Deposit submit button.
+2025-07-13 21:18:54.985 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Deposit status message received: Deposit Successful
+2025-07-13 21:18:55.196 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered withdrawl amount: 50
+2025-07-13 21:18:55.249 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Withdrawl submit button.
+2025-07-13 21:18:58.268 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Withdrawl status message received: Transaction successful
+2025-07-13 21:19:03.582 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Finished test: testCustomerDeposit
+2025-07-13 21:19:03.583 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Closing browser...
+2025-07-13 21:19:03.730 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Test teardown complete.
+2025-07-13 21:19:06.295 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Starting test: testCustomerDeposit for customer Guillermo Ruecker
+2025-07-13 21:19:06.477 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered deposit amount: 100
+2025-07-13 21:19:06.545 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Deposit submit button.
+2025-07-13 21:19:06.590 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Deposit status message received: Deposit Successful
+2025-07-13 21:19:06.804 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered withdrawl amount: 20
+2025-07-13 21:19:06.860 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Withdrawl submit button.
+2025-07-13 21:19:06.898 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Withdrawl status message received: Transaction successful
+2025-07-13 21:19:39.655 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Closing browser...
+2025-07-13 21:19:39.833 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Test teardown complete.
+2025-07-13 21:19:40.878 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Closing browser...
+2025-07-13 21:19:41.029 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Test teardown complete.
+2025-07-13 21:19:42.094 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Closing browser...
+2025-07-13 21:19:42.230 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Test teardown complete.
+2025-07-13 21:19:43.225 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Closing browser...
+2025-07-13 21:19:43.353 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Test teardown complete.
+2025-07-13 21:19:44.377 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Closing browser...
+2025-07-13 21:19:44.523 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Test teardown complete.
+2025-07-13 21:19:45.591 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Closing browser...
+2025-07-13 21:19:45.738 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Test teardown complete.
+2025-07-13 21:25:23.764 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Closing browser...
+2025-07-13 21:25:23.966 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Test teardown complete.
+2025-07-13 21:25:25.116 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Closing browser...
+2025-07-13 21:25:25.271 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Test teardown complete.
+2025-07-13 21:25:26.545 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Closing browser...
+2025-07-13 21:25:26.751 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Test teardown complete.
+2025-07-13 21:25:27.981 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Closing browser...
+2025-07-13 21:25:28.153 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Test teardown complete.
+2025-07-13 21:25:29.241 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Closing browser...
+2025-07-13 21:25:29.371 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Test teardown complete.
+2025-07-13 21:59:12.876 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Closing browser...
+2025-07-13 21:59:13.052 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Test teardown complete.
+2025-07-13 21:59:15.683 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Starting test: testCustomerDeposit for customer Carmen Cormier
+2025-07-13 21:59:15.871 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered deposit amount: 100
+2025-07-13 21:59:15.918 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Deposit submit button.
+2025-07-13 21:59:15.941 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Deposit status message received: Deposit Successful
+2025-07-13 21:59:15.941 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Deposit successful for customer Carmen Cormier
+2025-07-13 21:59:15.956 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Current balance after deposit: 100
+2025-07-13 21:59:15.957 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Finished test: testCustomerDeposit
+2025-07-13 21:59:15.957 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Closing browser...
+2025-07-13 21:59:16.093 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Test teardown complete.
+2025-07-13 21:59:18.426 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Starting test: testCustomerDeposit for customer Hai Kohler
+2025-07-13 21:59:18.585 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered deposit amount: 200
+2025-07-13 21:59:18.635 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Deposit submit button.
+2025-07-13 21:59:18.657 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Deposit status message received: Deposit Successful
+2025-07-13 21:59:18.890 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered withdrawl amount: 50
+2025-07-13 21:59:18.939 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Withdrawl submit button.
+2025-07-13 21:59:18.956 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Withdrawl status message received: Transaction successful
+2025-07-13 21:59:18.971 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Current balance after deposit: 150
+2025-07-13 21:59:18.971 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Finished test: testCustomerDeposit
+2025-07-13 21:59:18.973 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Closing browser...
+2025-07-13 21:59:19.118 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Test teardown complete.
+2025-07-13 21:59:21.401 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Starting test: testCustomerDeposit for customer Sid Olson
+2025-07-13 21:59:21.579 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered deposit amount: 150
+2025-07-13 21:59:21.633 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Deposit submit button.
+2025-07-13 21:59:21.658 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Deposit status message received: Deposit Successful
+2025-07-13 21:59:21.888 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered withdrawl amount: 50
+2025-07-13 21:59:21.940 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Withdrawl submit button.
+2025-07-13 21:59:24.971 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Withdrawl status message received: Transaction successful
+2025-07-13 21:59:50.728 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Closing browser...
+2025-07-13 21:59:50.880 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Test teardown complete.
+2025-07-13 21:59:53.181 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Starting test: testCustomerDeposit for customer Ayesha Hodkiewicz
+2025-07-13 21:59:53.350 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered deposit amount: 100
+2025-07-13 21:59:53.402 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Deposit submit button.
+2025-07-13 21:59:53.439 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Deposit status message received: Deposit Successful
+2025-07-13 21:59:53.642 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered withdrawl amount: 20
+2025-07-13 21:59:53.688 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Withdrawl submit button.
+2025-07-13 21:59:53.716 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Withdrawl status message received: Transaction successful
+2025-07-13 22:00:26.476 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Closing browser...
+2025-07-13 22:00:26.613 [main] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Test teardown complete.
+2025-07-13 22:00:31.001 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Closing browser...
+2025-07-13 22:00:31.132 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Test teardown complete.
+2025-07-13 22:00:34.499 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Closing browser...
+2025-07-13 22:00:34.643 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Test teardown complete.
+2025-07-13 22:00:37.707 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Closing browser...
+2025-07-13 22:00:37.850 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Test teardown complete.
+2025-07-13 22:00:41.180 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Closing browser...
+2025-07-13 22:00:41.318 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Test teardown complete.
+2025-07-13 22:00:43.673 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Closing browser...
+2025-07-13 22:00:43.811 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Test teardown complete.
+2025-07-13 22:05:51.410 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Closing browser...
+2025-07-13 22:05:51.571 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Test teardown complete.
+2025-07-13 22:05:53.675 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Closing browser...
+2025-07-13 22:05:53.813 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Test teardown complete.
+2025-07-13 22:05:56.309 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Closing browser...
+2025-07-13 22:05:56.446 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Test teardown complete.
+2025-07-13 22:05:59.112 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Closing browser...
+2025-07-13 22:05:59.241 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Test teardown complete.
+2025-07-13 22:06:00.903 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Closing browser...
+2025-07-13 22:06:01.039 [main] INFO  com.globalsqa.bank.tests.ManagerTests - Test teardown complete.
+2025-07-13 22:06:23.785 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Closing browser...
+2025-07-13 22:06:23.935 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Test teardown complete.
+2025-07-13 22:06:25.957 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.ManagerTests - Closing browser...
+2025-07-13 22:06:26.890 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.ManagerTests - Test teardown complete.
+2025-07-13 22:06:26.993 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Starting test: testCustomerDeposit for customer Jerome Lynch
+2025-07-13 22:06:27.190 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered deposit amount: 100
+2025-07-13 22:06:27.247 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Deposit submit button.
+2025-07-13 22:06:27.270 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Deposit status message received: Deposit Successful
+2025-07-13 22:06:27.270 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Deposit successful for customer Jerome Lynch
+2025-07-13 22:06:27.288 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Current balance after deposit: 100
+2025-07-13 22:06:27.288 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Finished test: testCustomerDeposit
+2025-07-13 22:06:27.288 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Closing browser...
+2025-07-13 22:06:27.431 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Test teardown complete.
+2025-07-13 22:06:30.398 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Starting test: testCustomerDeposit for customer Belia Barrows
+2025-07-13 22:06:30.630 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered deposit amount: 200
+2025-07-13 22:06:30.726 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Deposit submit button.
+2025-07-13 22:06:30.776 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Deposit status message received: Deposit Successful
+2025-07-13 22:06:31.102 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered withdrawl amount: 50
+2025-07-13 22:06:31.176 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Withdrawl submit button.
+2025-07-13 22:06:31.199 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Withdrawl status message received: Transaction successful
+2025-07-13 22:06:31.222 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Current balance after deposit: 150
+2025-07-13 22:06:31.222 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Finished test: testCustomerDeposit
+2025-07-13 22:06:31.222 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Closing browser...
+2025-07-13 22:06:31.345 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Test teardown complete.
+2025-07-13 22:06:32.475 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.ManagerTests - Closing browser...
+2025-07-13 22:06:33.616 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.ManagerTests - Test teardown complete.
+2025-07-13 22:06:33.945 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Starting test: testCustomerDeposit for customer Carin Murphy
+2025-07-13 22:06:34.139 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered deposit amount: 150
+2025-07-13 22:06:34.197 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Deposit submit button.
+2025-07-13 22:06:34.221 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Deposit status message received: Deposit Successful
+2025-07-13 22:06:34.482 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered withdrawl amount: 50
+2025-07-13 22:06:34.570 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Withdrawl submit button.
+2025-07-13 22:06:37.618 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Withdrawl status message received: Transaction successful
+2025-07-13 22:06:38.193 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.ManagerTests - Closing browser...
+2025-07-13 22:06:38.952 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.ManagerTests - Test teardown complete.
+2025-07-13 22:06:43.664 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.ManagerTests - Closing browser...
+2025-07-13 22:06:44.413 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.ManagerTests - Test teardown complete.
+2025-07-13 22:06:48.190 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.ManagerTests - Closing browser...
+2025-07-13 22:06:49.022 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.ManagerTests - Test teardown complete.
+2025-07-13 22:06:54.046 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Closing browser...
+2025-07-13 22:06:54.785 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Test teardown complete.
+2025-07-13 22:06:59.390 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Starting test: testCustomerDeposit for customer Buck Kreiger
+2025-07-13 22:06:59.682 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered deposit amount: 100
+2025-07-13 22:06:59.899 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Deposit submit button.
+2025-07-13 22:06:59.918 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Deposit status message received: Deposit Successful
+2025-07-13 22:06:59.918 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Deposit successful for customer Buck Kreiger
+2025-07-13 22:06:59.932 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Current balance after deposit: 100
+2025-07-13 22:06:59.932 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Finished test: testCustomerDeposit
+2025-07-13 22:06:59.933 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Closing browser...
+2025-07-13 22:07:00.692 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Test teardown complete.
+2025-07-13 22:07:03.299 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Closing browser...
+2025-07-13 22:07:03.552 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Test teardown complete.
+2025-07-13 22:07:05.996 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Starting test: testCustomerDeposit for customer Annika Parker
+2025-07-13 22:07:06.102 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Starting test: testCustomerDeposit for customer Lynn Runolfsdottir
+2025-07-13 22:07:06.251 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered deposit amount: 200
+2025-07-13 22:07:06.324 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered deposit amount: 150
+2025-07-13 22:07:06.392 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Deposit submit button.
+2025-07-13 22:07:06.423 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Deposit status message received: Deposit Successful
+2025-07-13 22:07:06.505 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Deposit submit button.
+2025-07-13 22:07:06.527 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Deposit status message received: Deposit Successful
+2025-07-13 22:07:06.656 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered withdrawl amount: 50
+2025-07-13 22:07:06.706 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Withdrawl submit button.
+2025-07-13 22:07:06.910 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered withdrawl amount: 50
+2025-07-13 22:07:07.144 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Withdrawl submit button.
+2025-07-13 22:07:07.161 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Withdrawl status message received: Transaction successful
+2025-07-13 22:07:07.179 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Current balance after deposit: 150
+2025-07-13 22:07:07.179 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Finished test: testCustomerDeposit
+2025-07-13 22:07:07.180 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Closing browser...
+2025-07-13 22:07:08.082 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Test teardown complete.
+2025-07-13 22:07:09.728 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Withdrawl status message received: Transaction successful
+2025-07-13 22:07:13.492 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Starting test: testCustomerDeposit for customer Larita Hegmann
+2025-07-13 22:07:13.737 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered deposit amount: 150
+2025-07-13 22:07:13.974 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Deposit submit button.
+2025-07-13 22:07:13.989 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Deposit status message received: Deposit Successful
+2025-07-13 22:07:14.363 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered withdrawl amount: 50
+2025-07-13 22:07:14.603 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Withdrawl submit button.
+2025-07-13 22:07:17.629 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Withdrawl status message received: Transaction successful
+2025-07-13 22:07:22.837 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Finished test: testCustomerDeposit
+2025-07-13 22:07:22.838 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Closing browser...
+2025-07-13 22:07:23.821 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Test teardown complete.
+2025-07-13 22:07:29.342 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Starting test: testCustomerDeposit for customer Rickie Hills
+2025-07-13 22:07:29.585 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered deposit amount: 100
+2025-07-13 22:07:29.810 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Deposit submit button.
+2025-07-13 22:07:29.837 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Deposit status message received: Deposit Successful
+2025-07-13 22:07:30.196 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered withdrawl amount: 20
+2025-07-13 22:07:30.430 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Withdrawl submit button.
+2025-07-13 22:07:30.456 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Withdrawl status message received: Transaction successful
+2025-07-13 22:07:35.448 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Closing browser...
+2025-07-13 22:07:35.612 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Test teardown complete.
+2025-07-13 22:07:37.879 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Starting test: testCustomerDeposit for customer Grover Pagac
+2025-07-13 22:07:38.050 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered deposit amount: 150
+2025-07-13 22:07:38.103 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Deposit submit button.
+2025-07-13 22:07:38.123 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Deposit status message received: Deposit Successful
+2025-07-13 22:07:38.330 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered withdrawl amount: 50
+2025-07-13 22:07:38.376 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Withdrawl submit button.
+2025-07-13 22:07:41.406 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Withdrawl status message received: Transaction successful
+2025-07-13 22:08:07.150 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Closing browser...
+2025-07-13 22:08:07.307 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Test teardown complete.
+2025-07-13 22:08:09.651 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Starting test: testCustomerDeposit for customer Cortez Kub
+2025-07-13 22:08:09.797 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered deposit amount: 150
+2025-07-13 22:08:09.839 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Deposit submit button.
+2025-07-13 22:08:09.861 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Deposit status message received: Deposit Successful
+2025-07-13 22:08:10.089 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered withdrawl amount: 50
+2025-07-13 22:08:10.122 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Withdrawl submit button.
+2025-07-13 22:08:12.953 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Finished test: testCustomerDeposit
+2025-07-13 22:08:12.953 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Closing browser...
+2025-07-13 22:08:13.151 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Withdrawl status message received: Transaction successful
+2025-07-13 22:08:13.594 [TestNG-tests-2] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Test teardown complete.
+2025-07-13 22:08:18.483 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Finished test: testCustomerDeposit
+2025-07-13 22:08:18.483 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Closing browser...
+2025-07-13 22:08:18.636 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Test teardown complete.
+2025-07-13 22:08:20.881 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Starting test: testCustomerDeposit for customer Katheryn Bechtelar
+2025-07-13 22:08:21.036 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered deposit amount: 100
+2025-07-13 22:08:21.083 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Deposit submit button.
+2025-07-13 22:08:21.116 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Deposit status message received: Deposit Successful
+2025-07-13 22:08:21.338 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered withdrawl amount: 20
+2025-07-13 22:08:21.383 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Withdrawl submit button.
+2025-07-13 22:08:21.416 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Withdrawl status message received: Transaction successful
+2025-07-13 22:08:54.168 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Closing browser...
+2025-07-13 22:08:54.316 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Test teardown complete.
+2025-07-13 22:08:56.501 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Starting test: testCustomerDeposit for customer Dwain Grimes
+2025-07-13 22:08:56.669 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered deposit amount: 100
+2025-07-13 22:08:56.716 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Deposit submit button.
+2025-07-13 22:08:56.749 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Deposit status message received: Deposit Successful
+2025-07-13 22:08:56.949 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered withdrawl amount: 20
+2025-07-13 22:08:56.985 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Withdrawl submit button.
+2025-07-13 22:08:57.017 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Withdrawl status message received: Transaction successful
+2025-07-13 22:09:29.786 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Closing browser...
+2025-07-13 22:09:29.958 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Test teardown complete.
+2025-07-13 22:09:32.117 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Starting test: testCustomerDeposit for customer Somer Dach
+2025-07-13 22:09:32.349 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered deposit amount: 100
+2025-07-13 22:09:32.382 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Deposit submit button.
+2025-07-13 22:09:32.415 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Deposit status message received: Deposit Successful
+2025-07-13 22:09:32.638 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered withdrawl amount: 20
+2025-07-13 22:09:32.685 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Withdrawl submit button.
+2025-07-13 22:09:32.699 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Withdrawl status message received: Transaction successful
+2025-07-13 22:10:05.407 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Closing browser...
+2025-07-13 22:10:05.549 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Test teardown complete.
+2025-07-13 22:10:07.882 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Starting test: testCustomerDeposit for customer Colene Kunde
+2025-07-13 22:10:08.033 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered deposit amount: 100
+2025-07-13 22:10:08.076 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Deposit submit button.
+2025-07-13 22:10:08.098 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Deposit status message received: Deposit Successful
+2025-07-13 22:10:08.317 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Entered withdrawl amount: 20
+2025-07-13 22:10:08.348 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Clicked Withdrawl submit button.
+2025-07-13 22:10:08.381 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Withdrawl status message received: Transaction successful
+2025-07-13 22:10:41.154 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Closing browser...
+2025-07-13 22:10:41.298 [TestNG-tests-1] INFO  com.globalsqa.bank.tests.CustomerLoginTests - Test teardown complete.
