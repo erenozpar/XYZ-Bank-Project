@@ -22,10 +22,10 @@ public class ManagerTests extends BaseTest {
     public void setup(@Optional("chrome") String browser) {
         super.setup(browser);
         // Initialize Page Objects for Manager tests
-        loginPage = new LoginPage(driver, wait); // Use 'driver' and 'wait' from BaseTest's ThreadLocal
-        managerPage = new ManagerPage(driver, wait);
-
-        loginPage.loginAsManager(BASE_URL);
+//        loginPage = new LoginPage(driver, wait); // Use 'driver' and 'wait' from BaseTest's ThreadLocal
+//        managerPage = new ManagerPage(driver, wait);
+//
+//        loginPage.loginAsManager(BASE_URL);
         // No need to call loginAsManager here in setup if each test starts from login.
         // Or if you want to login manager once for all manager tests, do it here:
         // loginPage.loginAsManager(BASE_URL);
